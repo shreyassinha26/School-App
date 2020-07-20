@@ -1,0 +1,12 @@
+.header{
+    justify-content: center;
+    display: flex;
+    background: #00FF00;
+}
+.aboutBackground{
+    background: chocolate;
+    justify-content: center;
+}
+.homeBackground{
+    background: darkkhaki;
+}
