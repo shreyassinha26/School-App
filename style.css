@@ -10,3 +10,10 @@
 .homeBackground{
     background: darkkhaki;
 }
+.expBackground{
+    justify-content: center;
+    display: flex;
+}
+body{
+    background: cornsilk;
+}
