@@ -1,14 +1,24 @@
 .header{
     justify-content: center;
     display: flex;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background: #00FF00;
+    border: double #FFFFFF;
+    font-size: 50px;
 }
 .aboutBackground{
     background: chocolate;
+    font-size: medium;
+    display: flex;
     justify-content: center;
 }
 .homeBackground{
     background: darkkhaki;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
 }
 .expBackground{
     justify-content: center;
@@ -16,4 +26,9 @@
 }
 body{
     background: cornsilk;
+}
+.grid{
+    font-size: 40px;
+    cursor: auto;
+
 }
