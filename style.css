@@ -23,6 +23,7 @@
 .expBackground{
     justify-content: center;
     display: flex;
+    font-size: 40px;
 }
 body{
     background: cornsilk;
@@ -31,4 +32,15 @@ body{
     font-size: 40px;
     cursor: auto;
 
+}
+a:link{
+    color:green;
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    transform: scale(1.2);
 }
